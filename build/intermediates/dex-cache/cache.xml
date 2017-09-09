@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.0_f6e4d9fa9012c7e0c25326a78c047c870a616ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.1_bdeed2f4d6ba75a9c70641edbfa3cd3f15a483ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.3.0/5c43618ae2e514637c58474e9e9663c8f054b72f/realm-annotations-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5c43618ae2e514637c58474e9e9663c8f054b72f">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-2.3.0_2e373142d8bc8e165f316e8f2f2acb846d390b01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/1f14ac459eff7d81faa2348fffbcec16711f0417/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15a48bdb9dc209d25726e513a907b7800e0a4d20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/ef5d339aa5147ba26cb8c8a4474ed3ff8e683b81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd8ce9087655ad7a048839b336980f173581543a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/68ba242a44bcbf28b8c6dcbb28ea966de630bc62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_283d2b2cc369d39c56031944a3b2c89bbc4dbb29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/f8139e86c2eb7b8c9765a1f79d8c17b9318dbd22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c3d08bffca6d83a632a64eb1377aea8981ca5de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1d99b607c1db27084aeb186e241cd4808ee73b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/a8020781369b53ad944b2e4db608b20f59bbbdae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a382fb422421ecbaa51f82e03587b5c38cc7fe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/9c336c181204c97fbc627bac02a06867d317f23e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_525fa44c789ece0f44e887273c1542bc52ace728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0fda1ea95e952c97d500171a1573b8a522692d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/e3aa7c2607ad55a5a44e87cfd97a6563648fcc39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b4643fc294a145eab11fff7b9c84662b39ef0e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_3fbbda6af233f5990bd144a852d94ce5ed2765ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/6d4ce5273870896cdb308ee43aaf2b323b8483e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d1d83d642370267628de881ef3db76fc98714df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/5e7d92ca24f33d762845440520b3565e9a9a463c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca69cf3684fd4667358f1f47ff3d02eda4ead0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/18896bfd074726b0272fc1eadb0c7d6efd1e3c03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b10d1c7dbf2233eb0cdd06d0ceedffe34eda131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/1c0a951bf36ee6eef2d1008aba5d171c974fca90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_113656e7d9cf374a1e72d0d3b2ef80cc94fb1dd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a1b14f6c055c448224da9e1b005261e5338b9483">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fcbbcb2f447b660b411e512d624123dcece4b282/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/3c6d21e7576902853be4937108d444d8c7575569/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d41066f5c45cae865298f70f665171f473cda52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/5da820407fb43ab6b9410eecffba610654b11944/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50ed8f8178fe22cd2c8fea45369ff72dd4e2d106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/f98b848d71414e349bd990263f58ec903ed06c5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f85755940666f500e512d224132e291166b6e890/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/08fe2f6ed661339fc11bebedc63cfd39d2e5f12c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78318b3ea3be03aaa50ac9bb677d9b282c93664d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/845749207b9508ef97f8dbdee03ac2255d1145f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d483779dc728392fefecb9a9650d01bac9e04d3b">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57d52f5c0ec16a0f8873141fe892abeaac26ccc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/.android/build-cache/cc8e6d2e7b8088171d150b5ffb8a214f2fd48ab9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a29af41858912aed63540ff04b2075ff4cf7a089/classes.dex" />
+    </item>
+
+</items>

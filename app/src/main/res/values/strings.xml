@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AMK Test</string>
+
+    <string name="form_username">Username</string>
+    <string name="form_password">Password</string>
+
+    <string name="error_user_empty">Username cannot be empty</string>
+    <string name="error_password_empty">Password cannot be empty</string>
+    <string name="error_validations">The field has more than 8 characters, a capital letter and should not contain spaces or special characters.</string>
+
+</resources>
