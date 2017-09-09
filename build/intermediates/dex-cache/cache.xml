@@ -102,6 +102,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/gustavoalvarez/Documents/GitHub/amk-music/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f0b0b1dd1a3c0f52762715f90ccb502325b2ffa3">
+        <dex dex="/Users/gustavoalvarez/Documents/GitHub/amk-music/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6ba0de1a891f5a772a65509109657c384496473c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/gustavoalvarez/.android/build-cache/e3aa7c2607ad55a5a44e87cfd97a6563648fcc39/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -126,6 +135,15 @@
         revision="26.0.0"
         sha1="88246166d5afb106f532f6e6deae683c66b42c89">
         <dex dex="/Users/gustavoalvarez/Desktop/AMKTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d1d83d642370267628de881ef3db76fc98714df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoalvarez/Documents/GitHub/amk-music/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/gustavoalvarez/Documents/GitHub/amk-music/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d338deafaab312b2dad5359001fc41810e509a99/classes.dex" />
     </item>
     <item
         is-multidex="true"
